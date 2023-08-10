@@ -19,5 +19,6 @@ cd SlackerMail-.021
 If you run into any problems with the installation of this script please let me know at:
 
 wjack@the-slacker.com
+
 Wayne O. Jackson
 Thank You!
