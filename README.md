@@ -8,10 +8,14 @@ test VPS a good many times, and it seems to work pretty well for me at this poin
 You'll need to do steps 1-3 in my SlackerMail How-To before you can run this script.
 Here is the website for that How-To: https://the-slacker.com/
 
-To install SlackerMail:<br>
-tar -xf SlackerMail-.021.tar.gz<br>
-cd SlackerMail-.021<br>
+To install SlackerMail:
+
+tar -xf SlackerMail-.021.tar.gz
+
+cd SlackerMail-.021
+
 ./SlackerMail.sh
+
 
 If you run into any problems with the installation of this script please let me know at:
 
