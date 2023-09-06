@@ -10,14 +10,11 @@ Here is the website for that How-To: https://the-slacker.com/
 
 To install SlackerMail:
 
-tar -xf SlackerMail-.023.tar.gz
-cd SlackerMail-.023 
+tar -xf SlackerMail-.024.tar.gz
+cd SlackerMail-.024 
 ./SlackerMail.sh
 
 If you run into any problems with the installation of this script please let me know at:
 
 wjack@the-slacker.com
 
-Wayne O. Jackson
-
-Thank You!
