@@ -10,9 +10,9 @@ Here is the website for that How-To: https://the-slacker.com/
 
 To install SlackerMail:
 
-tar -xf SlackerMail-.024.tar.gz
+tar -xf SlackerMail-.025.tar.gz
 
-cd SlackerMail-.024
+cd SlackerMail-.025
 
 ./SlackerMail.sh
 
