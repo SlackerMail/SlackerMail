@@ -1,9 +1,0 @@
-Changes for SlackerMail v.025 09/09/2023
-----------------------------------------
-
-1. Updated the SlackerMail Mailing List Manager (smmlm) to v.03. It should work better now under heavy loads.
-2. Changed urandom password generator so there is at least 3 lower case, 3 upper case, and 3 digits in all the 
-   passwords. Postfixadmin would complain about there not being at least 2 digits in the passwords sometimes.
-   It makes for more secure passwords.
-
-wjack@the-slacker.com
